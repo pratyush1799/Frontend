@@ -1,0 +1,10 @@
+Step 1: Make the parent div container
+Step 2: Make the calculator div and make a form in it without action
+Step 3: Make 1 div for the screen & it should be input of type text
+Step 4: Make 4 divs i.e rows for the buttons
+Step 5: Style the buttons and screen accordingly
+Step 6: Use onclick JS function to change the output of screen
+Step 7: Use the eval Function to evaluate the expression in the input
+Step 8: Properly check the JS in the file of the buttons
+
+Your Calculator is now complete.
