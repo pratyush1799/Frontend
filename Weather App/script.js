@@ -1,9 +1,11 @@
+//https://api.openweathermap.org/data/2.5/weather?q=Pune&appid=b2f95f7c450dcd045ea7fd4ce8685769
+
 const apiKey = "b2f95f7c450dcd045ea7fd4ce8685769";
 const apiURL = "https://api.openweathermap.org/data/2.5/weather?&units=metric&q=";
 
 const searchBox = document.querySelector('.search input');
 const searchBtn = document.querySelector('.search button');
-const weatherIcon = document.querySelector(".weather-icon");
+const weatherIcon = document.querySelector(".weather-icon");    
 
 async function checkWeather(city)
 {
